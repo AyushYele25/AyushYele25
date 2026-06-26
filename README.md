@@ -30,7 +30,7 @@
 
 | Degree | Institution | Period | CGPA |
 |--------|-------------|--------|------|
-| B.Tech — Data Science | G.H. Raisoni College of Engineering, Nagpur | Nov 2022 – Jun 2026 | 7.14 / 10 |
+| B.Tech — Data Science | G.H. Raisoni College of Engineering, Nagpur | Nov 2022 – Jun 2026 | 7.26 / 10 |
 
 ---
 
